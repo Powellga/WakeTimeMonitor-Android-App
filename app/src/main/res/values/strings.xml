@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wake Time Monitor</string>
+    <string name="reset_log">Reset Log</string>
+    <string name="display_log">Display Log</string>
+    <string name="off">Off</string>
+    <string name="unlock">Unlock</string>
+</resources>
